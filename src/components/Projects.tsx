@@ -20,6 +20,12 @@ export default function Projects() {
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=80',
       link: 'https://cardpallet.com',
     },
+    {
+      title: 'POCLF',
+      description: 'Created intuitive and user-friendly NGO platform.',
+      image: './22.jpg',
+      link: 'https://www.poclf.com.ng',
+    },
   ];
 
   return (
